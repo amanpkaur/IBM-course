@@ -1,2 +1,2 @@
 # IBM-course
-IBM course on coursera
+IBM course for a Data Science Profession
